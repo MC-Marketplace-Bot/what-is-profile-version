@@ -1,4 +1,4 @@
-# what is profile version?
+# What is profile version?
 
 Profile version is the amount of changes you made to your Microsoft account.
 
