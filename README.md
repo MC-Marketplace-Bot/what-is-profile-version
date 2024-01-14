@@ -1,6 +1,5 @@
 # what-is-profile-version?
 
-
 Profile version is the amount of changes you made to your Microsoft account.
 
 Creating the account puts you at version 1, creating an Xbox profile puts you at version 2.
